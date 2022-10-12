@@ -58,5 +58,6 @@
 
 <p align="center">
     <a href="https://github.com/Intubun"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Intubun&theme=tokyonight&hide_border=true"  width="520" alt="Intubun"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Intubun&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Intubun"/>
 </p>
 
