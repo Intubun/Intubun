@@ -61,3 +61,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Intubun&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Intubun"/>
 </p>
 
+## <b>Contributions</b>
+
+- <a href="https://github.com/RobTillaart/MCP_DAC">RobTillaart/MCP_DAC (Added RP2040 Support)</a>
+- <a href="https://github.com/RobTillaart/MCP4725">RobTillaart/MCP4725 (Added RP2040 Support)</a>
+- <a href="https://github.com/RobTillaart/ADS1X15">RobTillaart/ADS1X15 (Added RP2040 Support)</a>
+
