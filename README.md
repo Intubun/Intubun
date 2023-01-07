@@ -45,6 +45,7 @@
 </p>
 
 ## <b>Contributions</b>
+(small things like fixing typos excluded)
 
 - <a href="https://github.com/RobTillaart/MCP_DAC">RobTillaart/MCP_DAC (Added RP2040 Support)</a>
 - <a href="https://github.com/RobTillaart/MCP4725">RobTillaart/MCP4725 (Added RP2040 Support)</a>
