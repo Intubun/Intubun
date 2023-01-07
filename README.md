@@ -44,26 +44,6 @@
     
 </p>
 
-<br> 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
-
-<p align="center">
-<a href="https://github.com/Intubun/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Intubun&include_all_commits=true&count_private=false&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-</a>
- 
-<a href="https://github.com/Intubun">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Intubun&theme=blueberry" width="380"/>
-</a>
-</p>
-
-<p align="center">
-    <a href="https://github.com/Intubun"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Intubun&theme=tokyonight&hide_border=true"  width="520" alt="Intubun"/></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Intubun&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="Intubun"/>
-</p>
-
 ## <b>Contributions</b>
 
 - <a href="https://github.com/RobTillaart/MCP_DAC">RobTillaart/MCP_DAC (Added RP2040 Support)</a>
