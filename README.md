@@ -51,6 +51,9 @@ My interests range from microcontrollers and digital design to frontend developm
   → [ADS1X15 PR #46](https://github.com/RobTillaart/ADS1X15/pull/46)</br>
   → [MCP4725 PR #21](https://github.com/RobTillaart/MCP4725/pull/21)</br>
 
+### 🔹 ChaosPager
+- Hardware Design and Production  
+
 ---
 
 ## 📈 GitHub Stats
