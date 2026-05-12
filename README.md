@@ -35,6 +35,7 @@ My interests range from microcontrollers and digital design to frontend developm
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
 ![FPGA](https://img.shields.io/badge/FPGA-009FDA?style=for-the-badge)
+![ASIC Design](https://img.shields.io/badge/ASIC_Design-1A1A1A?style=for-the-badge)
 
 ---
 
