@@ -39,7 +39,7 @@ My interests range from microcontrollers and digital design to frontend developm
 
 ---
 
-## 🌟 Major Contributions
+## 🌟 Contributions
 
 ### 🔹 Magic VLSI
 - Added WASM package support  
