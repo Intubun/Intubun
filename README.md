@@ -44,6 +44,8 @@ My interests range from microcontrollers and digital design to frontend developm
 ### 🔹 Magic VLSI
 - Added WASM package support  
   → [PR #510](https://github.com/RTimothyEdwards/magic/pull/510)
+- Added TCL support to WASM package  
+  → [PR #519](https://github.com/RTimothyEdwards/magic/pull/519)
 
 ### 🔹 RobTillaart Libraries
 - Added and improved RP2040 support across multiple libraries
