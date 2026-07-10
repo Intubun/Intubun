@@ -46,7 +46,7 @@ My interests range from microcontrollers and digital design to frontend developm
   → [PR #510](https://github.com/RTimothyEdwards/magic/pull/510)
 - Added TCL support to WASM package  
   → [PR #519](https://github.com/RTimothyEdwards/magic/pull/519)
-- Bugfixes
+- Bugfixes  
   → [PR #536](https://github.com/RTimothyEdwards/magic/pull/536)
 
 ### 🔹 RobTillaart Libraries
