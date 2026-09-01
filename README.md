@@ -41,6 +41,10 @@ My interests range from microcontrollers and digital design to frontend developm
 
 ## 🌟 Contributions
 
+### 🔹 Custom Silicon Projects
+- Designed LVDS Driver, Predriver and PRBS-7 Generator and schematic integration of complete design
+  → [Chipalooza #2 LVDS and PLL Submission](https://github.com/Intubun/chipalooza_lvds_pll)</br>
+
 ### 🔹 Magic VLSI
 - Added WASM package support  
   → [PR #510](https://github.com/RTimothyEdwards/magic/pull/510)
@@ -58,13 +62,6 @@ My interests range from microcontrollers and digital design to frontend developm
 
 ### 🔹 ChaosPager
 - Hardware Design and Production  
-
-### 🔹 Custom Silicon Projects
-- Designed LVDS Driver, Predriver and PRBS-7 Generator and schematic integration of complete design
-  
-  → [Chipalooza #2 LVDS and PLL Submission](https://github.com/Intubun/chipalooza_lvds_pll)</br>
-  
-
 
 ---
 
