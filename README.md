@@ -42,7 +42,7 @@ My interests range from microcontrollers and digital design to frontend developm
 ## 🌟 Contributions
 
 ### 🔹 Custom Silicon Projects
-- Designed LVDS Driver, Predriver and PRBS-7 Generator and schematic integration of complete design
+- Designed LVDS Driver, Predriver and PRBS-7 Generator and schematic integration of complete design</br>
   → [Chipalooza #2 LVDS and PLL Submission](https://github.com/Intubun/chipalooza_lvds_pll)</br>
 
 ### 🔹 Magic VLSI
